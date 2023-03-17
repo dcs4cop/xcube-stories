@@ -1,0 +1,6 @@
+name: xcube-stories
+channels:
+  - conda-forge
+dependencies:
+  - python =3.9
+  - xcube-cci >=0.9.8
